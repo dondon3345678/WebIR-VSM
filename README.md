@@ -1,5 +1,5 @@
 # WebIR-VSM
-My search engine implemented by Vector Space Model and Rocchio Feedback. This implementation achived 0.74349 MAP value on the given corpus.
+My search engine implemented by Vector Space Model and Rocchio Feedback with Python. This implementation achived 0.74349 MAP value on the given chinese news corpus.
 
 ## Preprocess
 * file-list : Each line is a file path to every document.
